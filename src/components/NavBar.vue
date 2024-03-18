@@ -11,7 +11,7 @@ import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
     </div>
 
     <div
-      class="relative w-[30rem] h-9 bg-zinc-200 rounded-[0.5rem] flex justify-center items-center"
+      class="relative w-[30rem] h-9 bg-zinc-200 rounded-[0.5rem] lg:flex hidden justify-center items-center"
     >
       <div class="flex">
         <svg
